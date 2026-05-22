@@ -11,8 +11,8 @@ public class LibreriaApplication {
 		SpringApplication.run(LibreriaApplication.class, args);
 		System.out.println("HOLA MUNDO DESDE SPRING BOOT");
 		Cliente cliente = new Cliente(
-				1
-				,"1724185085"
+				"tumbaco"
+				,1
 				,"Gerson"
 				,"Ruiz"
 				,"Quito"
